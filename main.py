@@ -18,7 +18,7 @@ diaries = [
     ShoDiary(),
     AyanoDiary(),
     MoritaDiary(),
-     ]
+]
 for d in diaries:
     print("---------------------------------")
     print(d.get_date())
