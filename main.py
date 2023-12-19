@@ -17,7 +17,7 @@ diaries = [
     OkuboDiary(),
     ShoDiary(),
     AyanoDiary(),
-    MoritaDiary 
+    MoritaDiary(),
      ]
 for d in diaries:
     print("---------------------------------")
